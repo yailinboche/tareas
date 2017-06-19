@@ -1,0 +1,53 @@
+.hola{
+	background:#212530
+
+}
+span,b{
+	color: #B9BABD;
+}
+.tex{
+	color: #53A0AD;
+}
+.linea1 span{
+	margin-top: 5px;
+	height: 5px;
+	width: 100%;
+	background-color:#53A0AD ;
+	display: inline-block;
+	  }
+.pala{
+	color:#fff; 
+	font-size: 65px;
+}
+.palabras{
+	font-family:Century;
+	font-size: 15px;
+	text-align: center;
+	margin-left: : 10px;
+}
+.linea2{
+	margin-top: 70px;
+	height: 1px;
+	width: 50%;
+	background-color: #fff;
+	display: inline-block;
+	margin-left: 50%;
+}
+.hi{
+	background-color: #00c7ac;
+	border-radius: 20px;
+	width: 200px;
+}
+.hi h3{
+	text-align: center;
+	font-size: 25px;
+	margin-top: 65px;
+	color: #fff;
+}
+.linea3{
+	margin-top: 70px;
+	height: 1px;
+	width: 50%;
+	background-color: #fff;
+	display: inline-block;
+	margin-left: 10%;
